@@ -1,2 +1,2 @@
 # Calculadora.app
-Calculadora React
+Calculadora criada a partir do curso DIO de React.
